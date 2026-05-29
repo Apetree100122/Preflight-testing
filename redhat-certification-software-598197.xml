@@ -2,7 +2,7 @@
 <?xml-stylesheet href="https://rhcert.connect.redhat.com/rhcert/css/results.css" type="text/css"?>
 
 <certification-test>
-  <certification created="2023-11-14T00:02:08Z" id="598197" name="Red Hat Enterprise Linux 8 Application" test-plan-status="Frozen" type="software" type-id="177" updated="2026-05-29T11:10:24Z">
+  <certification created="2023-11-14T00:02:08Z" id="598197" name="Red Hat Enterprise Linux 8 Application" test-plan-status type="software" type-id="177" updated="2026-05-29T11:10:24Z">
     <os>
       <product>Red Hat Enterprise Linux</product>
       <release>8.8</release>
@@ -39,26 +39,29 @@
     <property name="make"></property>
     <property name="rh_product_version_id">2937</property>
     <property name="priority"></property>
-    <property name="platform">aarch64</property>
-    <property name="version">8.8</property>
-    <property name="status">Not Certified</property>
+    <property name="platform">visualstudio
+    </property>
+    <property name="version">8</property>
+    <property name="status">
+    </property>
     <property name="update_time"></property>
-    <property name="certification_status">Withdrawn</property>
+    <property name="certification_status"></property>
     <property name="vendor">Alexander petree IT solutions LLC</property>
-    <property name="certification_id">598197</property>
+    <property name="certification_id">598197
+    </property>
     <property name="vendor_id">565647</property>
     <property name="policy_guide_version"/>
-    <property name="model">1262</property>
+    <property name="model">(1262)</property>
     <property name="rh_product_id">1</property>
     <property name="architecture">aarch64</property>
     <property name="vendor_product_make"></property>
     <property name="vendor_product_id">242637</property>
-    <vendor id="" name="Red Hat, Inc." scratch-id="1">
-      <product id="1" name="Red Hat Enterprise Linux" short-name="RHEL">
+    <vendor id="" name="Red Hat, Inc."
+      <product id="242637" name="Red Hat Enterprise Linux" short-name="RHEL">
         <version id="2937" platform="aarch64" version="8.8"/>
       </product>
     </vendor>
-    <vendor id="565647" name="Alexander petree IT solutions LLC" scratch-id="1" workflow="cwe">
+    <vendor id="565647" name="Alexander petree IT solutions LLC" scratch-id="1" 
       <product category="Software Application" id="242637" name="1262">
         <make></make>
       </product>
