@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="https://rhcert.connect.redhat.com/rhcert/css/results.css" type="text/css"?>
+
+<certification-test>
+  <certification created="2023-11-14T00:02:08Z" id="598197" name="Red Hat Enterprise Linux 8 Application" test-plan-status="Frozen" type="software" type-id="177" updated="2026-05-29T11:10:24Z">
+    <os>
+      <product>Red Hat Enterprise Linux</product>
+      <release>8.8</release>
+    </os>
+    <plan-component bits="64bits" id="4349027" name="containers">
+      <description/>
+      <os/>
+    </plan-component>
+    <plan-component bits="64bits" id="4349037" name="FINGERPRINT">
+      <description/>
+      <os/>
+    </plan-component>
+    <plan-component bits="64bits" id="4349047" name="RPM">
+      <description/>
+      <os/>
+    </plan-component>
+    <plan-component bits="64bits" id="4349057" name="SELF_CHECK">
+      <description/>
+      <os/>
+    </plan-component>
+    <plan-component bits="64bits" id="4349067" name="SOSREPORT">
+      <description/>
+      <os/>
+    </plan-component>
+    <plan-component bits="64bits" id="4349077" name="SUPPORTABLE">
+      <description/>
+      <os/>
+    </plan-component>
+    <property name="policy_guide_url"/>
+    <property name="product">Red Hat Enterprise Linux</property>
+    <property name="certification_result">Not Certified</property>
+    <property name="vendor_product_name">1262</property>
+    <property name="category">Software Application</property>
+    <property name="make"></property>
+    <property name="rh_product_version_id">2937</property>
+    <property name="priority"></property>
+    <property name="platform">aarch64</property>
+    <property name="version">8.8</property>
+    <property name="status">Not Certified</property>
+    <property name="update_time"></property>
+    <property name="certification_status">Withdrawn</property>
+    <property name="vendor">Alexander petree IT solutions LLC</property>
+    <property name="certification_id">598197</property>
+    <property name="vendor_id">565647</property>
+    <property name="policy_guide_version"/>
+    <property name="model">1262</property>
+    <property name="rh_product_id">1</property>
+    <property name="architecture">aarch64</property>
+    <property name="vendor_product_make"></property>
+    <property name="vendor_product_id">242637</property>
+    <vendor id="" name="Red Hat, Inc." scratch-id="1">
+      <product id="1" name="Red Hat Enterprise Linux" short-name="RHEL">
+        <version id="2937" platform="aarch64" version="8.8"/>
+      </product>
+    </vendor>
+    <vendor id="565647" name="Alexander petree IT solutions LLC" scratch-id="1" workflow="cwe">
+      <product category="Software Application" id="242637" name="1262">
+        <make></make>
+      </product>
+    </vendor>
+  </certification>
+</certification-test>
